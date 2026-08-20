@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fa20953f86b7eff4",
+        "id": "43c89a6456e74c1c",
         "type": "tabs",
         "children": [
           {
-            "id": "c4ef474a22a5f357",
+            "id": "3b9855a46d4e9f99",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1368-cinema-seat-allocation.md.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1368-cinema-seat-allocation.md"
+              "title": "新标签页"
             }
           }
         ]
@@ -188,14 +184,19 @@
       "bases:新建数据库": false
     }
   },
-  "active": "c4ef474a22a5f357",
+  "active": "3b9855a46d4e9f99",
   "lastOpenFiles": [
+    "3345-smallest-divisible-digit-product-i.md",
+    "1368-cinema-seat-allocation.md",
+    "400-nth-digit.md",
+    "233-number-of-digit-one.md",
+    "程序员面试金典/17.06-number-of-2s-in-range-lcci.md",
+    "1368-cinema-seat-allocation.md.md",
     "400-nth-digit.md.md",
     "233-number-of-digit-one.md.md",
-    "17.06-number-of-2s-in-range-lcci.md.md",
+    "程序员面试金典/17.06-number-of-2s-in-range-lcci.md.md",
     "3348-smallest-divisible-digit-product-ii.md",
     "3345-smallest-divisible-digit-product-i.md.md",
-    "1368-cinema-seat-allocation.md.md",
     "程序员面试金典",
     "剑指Offer",
     "README.md",
