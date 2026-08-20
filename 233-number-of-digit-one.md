@@ -6,7 +6,7 @@
 
 [[17.06-number-of-2s-in-range-lcci.md]]
 
-#剑指Offer
+#剑指Offer #数字相关
 
 ---
 
