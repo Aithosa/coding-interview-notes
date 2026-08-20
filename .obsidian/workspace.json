@@ -11,10 +11,14 @@
             "id": "f367ede3689f994e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3348-smallest-divisible-digit-product-ii.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "3348-smallest-divisible-digit-product-ii"
             }
           }
         ]
@@ -186,11 +190,15 @@
   },
   "active": "f367ede3689f994e",
   "lastOpenFiles": [
-    "400-nth-digit.md.md",
-    "1368-cinema-seat-allocation.md.md",
     "3345-smallest-divisible-digit-product-i.md.md",
-    "README.md",
+    "1368-cinema-seat-allocation.md.md",
+    "400-nth-digit.md.md",
+    "233-number-of-digit-one.md.md",
+    "17.06-number-of-2s-in-range-lcci.md.md",
     "3348-smallest-divisible-digit-product-ii.md",
+    "程序员面试金典",
+    "剑指Offer",
+    "README.md",
     "3345.md",
     "未命名.base",
     "desktop.ini"

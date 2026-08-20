@@ -1,5 +1,7 @@
 # 400-第 N 位数字[中等]
 
+---
+
 > <https://leetcode.cn/problems/nth-digit/description>
 
 #剑指Offer

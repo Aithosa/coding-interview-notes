@@ -1,5 +1,7 @@
 # 3345-最小可整除数位乘积 I [简单]
 
+---
+
 > <https://leetcode.cn/problems/smallest-divisible-digit-product-i>
 
 ---

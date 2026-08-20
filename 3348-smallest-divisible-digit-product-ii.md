@@ -1,5 +1,7 @@
 # 3348-最小可整除数位乘积 II [困难]
 
+---
+
 > <https://leetcode.cn/problems/smallest-divisible-digit-product-ii/description/>
 
 [[3345-smallest-divisible-digit-product-i.md]]

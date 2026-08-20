@@ -1,5 +1,7 @@
 # 1386-安排电影院座位[中等]
 
+---
+
 > <https://leetcode.cn/problems/cinema-seat-allocation>
 
 ---
