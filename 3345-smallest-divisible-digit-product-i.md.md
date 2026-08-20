@@ -2,8 +2,6 @@
 
 > <https://leetcode.cn/problems/smallest-divisible-digit-product-i>
 
-[[3348-smallest-divisible-digit-product-ii]]
-
 ---
 
 ## 常规解法

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1c0b6687c238bde8",
+        "id": "37884cf6f2e1d5b4",
         "type": "tabs",
         "children": [
           {
-            "id": "2592a634003c3c21",
+            "id": "f367ede3689f994e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1368-cinema-seat-allocation.md.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1368-cinema-seat-allocation.md"
+              "title": "新标签页"
             }
           }
         ]
@@ -83,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "409c136961a69ed0",
@@ -189,11 +184,13 @@
       "bases:新建数据库": false
     }
   },
-  "active": "2592a634003c3c21",
+  "active": "f367ede3689f994e",
   "lastOpenFiles": [
-    "3345-smallest-divisible-digit-product-i.md.md",
-    "3348-smallest-divisible-digit-product-ii.md",
+    "400-nth-digit.md.md",
     "1368-cinema-seat-allocation.md.md",
+    "3345-smallest-divisible-digit-product-i.md.md",
+    "README.md",
+    "3348-smallest-divisible-digit-product-ii.md",
     "3345.md",
     "未命名.base",
     "desktop.ini"
