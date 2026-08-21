@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bit-operate.md",
+                "file": "专题/bit-manipulation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bit-operate"
+              "title": "bit-manipulation"
             }
           }
         ]
@@ -190,8 +190,10 @@
   },
   "active": "d0cceaa6256c9aa2",
   "lastOpenFiles": [
+    "专题/bit-operate.md",
+    "专题/bit-manipulation.md",
+    "专题",
     "400-nth-digit.md",
-    "bit-operate.md",
     "233-number-of-digit-one.md",
     "程序员面试金典/17.06-number-of-2s-in-range-lcci.md",
     "3345-smallest-divisible-digit-product-i.md",
